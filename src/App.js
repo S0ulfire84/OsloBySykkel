@@ -15,7 +15,7 @@ class App extends Component {
     .then((dataInfo) => {
       
 
-      fetch('http://gbfs.urbansharing.com/oslobysykkel.no/station_status.json')
+      fetch('https://gbfs.urbansharing.com/oslobysykkel.no/station_status.json')
       .then(resStatus => resStatus.json())
       .then((dataStatus)=> {
         let stationsData = dataInfo.data.stations
