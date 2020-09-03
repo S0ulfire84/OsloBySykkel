@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/OsloBySykkel/static/css/main.d8062d14.chunk.css",
-    "main.js": "/OsloBySykkel/static/js/main.b0733843.chunk.js",
-    "main.js.map": "/OsloBySykkel/static/js/main.b0733843.chunk.js.map",
+    "main.js": "/OsloBySykkel/static/js/main.6212d174.chunk.js",
+    "main.js.map": "/OsloBySykkel/static/js/main.6212d174.chunk.js.map",
     "runtime-main.js": "/OsloBySykkel/static/js/runtime-main.c33ef075.js",
     "runtime-main.js.map": "/OsloBySykkel/static/js/runtime-main.c33ef075.js.map",
-    "static/js/2.6bf0154d.chunk.js": "/OsloBySykkel/static/js/2.6bf0154d.chunk.js",
-    "static/js/2.6bf0154d.chunk.js.map": "/OsloBySykkel/static/js/2.6bf0154d.chunk.js.map",
+    "static/js/2.dcf46cac.chunk.js": "/OsloBySykkel/static/js/2.dcf46cac.chunk.js",
+    "static/js/2.dcf46cac.chunk.js.map": "/OsloBySykkel/static/js/2.dcf46cac.chunk.js.map",
     "index.html": "/OsloBySykkel/index.html",
-    "precache-manifest.13d0cba08d3b850abadc0a1e5efc4fdc.js": "/OsloBySykkel/precache-manifest.13d0cba08d3b850abadc0a1e5efc4fdc.js",
+    "precache-manifest.11f732b4c9e9209f290c3e502200c7cc.js": "/OsloBySykkel/precache-manifest.11f732b4c9e9209f290c3e502200c7cc.js",
     "service-worker.js": "/OsloBySykkel/service-worker.js",
     "static/css/main.d8062d14.chunk.css.map": "/OsloBySykkel/static/css/main.d8062d14.chunk.css.map",
-    "static/js/2.6bf0154d.chunk.js.LICENSE.txt": "/OsloBySykkel/static/js/2.6bf0154d.chunk.js.LICENSE.txt"
+    "static/js/2.dcf46cac.chunk.js.LICENSE.txt": "/OsloBySykkel/static/js/2.dcf46cac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c33ef075.js",
-    "static/js/2.6bf0154d.chunk.js",
+    "static/js/2.dcf46cac.chunk.js",
     "static/css/main.d8062d14.chunk.css",
-    "static/js/main.b0733843.chunk.js"
+    "static/js/main.6212d174.chunk.js"
   ]
 }

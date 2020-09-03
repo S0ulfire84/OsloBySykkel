@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e67471d8524283a308dcbeb482078788",
+    "revision": "0e9e272f228ee70acca26303a6bbba2b",
     "url": "/OsloBySykkel/index.html"
   },
   {
-    "revision": "b302969884dff2ed517f",
+    "revision": "6466cb6e463a61e472d3",
     "url": "/OsloBySykkel/static/css/main.d8062d14.chunk.css"
   },
   {
-    "revision": "cca55e8e0634ff2b5146",
-    "url": "/OsloBySykkel/static/js/2.6bf0154d.chunk.js"
+    "revision": "689a5b4d2d5e68848975",
+    "url": "/OsloBySykkel/static/js/2.dcf46cac.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/OsloBySykkel/static/js/2.6bf0154d.chunk.js.LICENSE.txt"
+    "url": "/OsloBySykkel/static/js/2.dcf46cac.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b302969884dff2ed517f",
-    "url": "/OsloBySykkel/static/js/main.b0733843.chunk.js"
+    "revision": "6466cb6e463a61e472d3",
+    "url": "/OsloBySykkel/static/js/main.6212d174.chunk.js"
   },
   {
     "revision": "797e585590bd28d5ce49",
