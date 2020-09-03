@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/OsloBySykkel/precache-manifest.baa630192e4aa37f974b56fb71ea75fd.js"
+  "/OsloBySykkel/precache-manifest.13d0cba08d3b850abadc0a1e5efc4fdc.js"
 );
 
 self.addEventListener('message', (event) => {
