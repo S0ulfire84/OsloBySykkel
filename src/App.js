@@ -6,7 +6,7 @@ import './bootstrap.css';
 class App extends Component {
 
   state = {
-    contacts: []
+    stations: []
   }
 
   componentDidMount() {
